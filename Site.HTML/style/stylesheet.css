@@ -35,8 +35,8 @@ nav{
   cursor: pointer;
 }
 .oof {
-  background-color: black;
-  color: white;
-  margin: 20px;
-  padding: 20px;
+ text-align:center; 
+ background-color: white;
+ text-shadow: black;
+color: black;
 }
