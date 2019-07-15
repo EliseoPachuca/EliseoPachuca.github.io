@@ -1,7 +1,7 @@
-html {background-color: yellow}
+html {background-color: black}
 html {border-style: ridge}
 html {text-decoration-style: wavy}
-    html {color: yellowgreen}
+    html {color: white}
 .burdsandthebarry {
     background-color:black
         color:yellow;
@@ -33,4 +33,10 @@ nav{
   font-size: 18px;
   margin: 4px 2px;
   cursor: pointer;
+}
+.oof {
+  background-color: black;
+  color: white;
+  margin: 20px;
+  padding: 20px;
 }
