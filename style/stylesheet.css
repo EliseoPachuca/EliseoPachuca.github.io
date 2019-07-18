@@ -36,7 +36,8 @@ nav{
 }
 .lol{background-color: white:
   ;text-shadow: black;
-color: black;}
+color: black;
+text-align: center;}
 @media (min-device-width:800px) {
     img[data-src-800px] {
         content: attr(data-src-800px, url);
