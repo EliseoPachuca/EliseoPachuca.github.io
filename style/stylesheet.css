@@ -34,10 +34,6 @@ nav{
   margin: 4px 2px;
   cursor: pointer;
 }
-.lol{background-color: white:
-  ;text-shadow: black;
-color: black;
-text-align: center;}
 @media (min-device-width:800px) {
     img[data-src-800px] {
         content: attr(data-src-800px, url);
@@ -82,4 +78,4 @@ html, body {
 .lol{background-color: white:
   ;text-shadow: black;
 color: black;
-text-align: center;}}
+text-align: center;}
