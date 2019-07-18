@@ -8,6 +8,11 @@ html {text-decoration-style: wavy}
     text text-align: justify
 }
 
+.lol{background-color: white:
+  ;text-shadow: black;
+color: black;
+text-align: center;}
+
 nav{
       border:2px solid #ccc;
       border-width:4px 0;
@@ -75,7 +80,3 @@ html, body {
   display: flex;
   flex-direction: row;
 }
-.lol{background-color: white:
-  ;text-shadow: black;
-color: black;
-text-align: center;}
