@@ -1,0 +1,80 @@
+html {background-color: black}
+html {border-style: ridge}
+html {text-decoration-style: wavy}
+    html {color: black}
+.burdsandthebarry {
+    background-color:black
+        color:yellow;
+    text text-align: justify
+}
+
+nav{
+      border:2px solid #ccc;
+      border-width:4px 0;
+      margin:0;
+      padding:0;
+     background-color: #f28500;
+     font-family: "Times New Roman", Times, serif;
+       font-size: 20px;
+   flex-direction: row;
+ text-align: center;
+ width: 400px;
+   margin: 0;
+   padding: 0;}
+
+.button{
+  background-color: #cc335f;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.lol{background-color: white:
+  ;text-shadow: black;
+color: black;}
+@media (min-device-width:800px) {
+    img[data-src-800px] {
+        content: attr(data-src-800px, url);
+    }
+}
+@media (min-device-width:600px) {
+    img[data-src-600px] {
+        content: attr(data-src-600px, url);
+    }
+}
+@media query {min-device-width
+
+}
+.container > div {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #ffeead;
+}
+
+html, body {
+  background-color: #ffeead;
+  margin: 10px;
+}
+
+.container > div:nth-child(1) {
+  background-color: #96ceb4;
+}
+
+.container > div:nth-child(2) {
+  background-color: #ff6f69;
+}
+
+.container > div:nth-child(3) {
+  background-color: #88d8b0;
+}
+.container {
+  border: 5px solid #ffcc5c;
+  display: flex;
+  flex-direction: row;
+}
